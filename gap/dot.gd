@@ -311,7 +311,7 @@ DeclareOperation("GraphvizName", [IsGraphvizObject]);
 
 #! @Arguments obj
 #! @Returns list of attributes
-#! @Description list of graphviz attributes
+#! @Description Gets the attributes of the provided graphviz object.
 #! @BeginExampleSession
 #! @EndExampleSession
 # HERE
